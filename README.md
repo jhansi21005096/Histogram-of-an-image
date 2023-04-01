@@ -52,6 +52,8 @@ plt.show()
 
 # Display the histogram of gray scale image and any one channel histogram from color image
 
+# Gray scale image
+
 import cv2
 
 import matplotlib.pyplot as plt
@@ -76,6 +78,7 @@ plt.stem(hist0)
 
 plt.show()
 
+# color image
 
 import cv2
 
@@ -114,7 +117,7 @@ plt.show()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![output]()
+![output](https://github.com/jhansi21005096/Histogram-of-an-image/blob/main/dipoutput-1.png)
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output]()
