@@ -120,7 +120,7 @@ plt.show()
 ![output](https://github.com/jhansi21005096/Histogram-of-an-image/blob/main/dipoutput-1.png)
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![output]()
+![output](https://github.com/jhansi21005096/Histogram-of-an-image/blob/main/dipoutput-2.png)
 ![output]()
 ### Histogram Equalization of Grayscale Image
 ![output]()
