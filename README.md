@@ -108,6 +108,19 @@ plt.show()
 
 # Write the code to perform histogram equalization of the image. 
 
+import cv2
+
+gray_image = cv2.imread("grayscalerose.webp",0)
+
+cv2.imshow('Grey Scale Image',gray_image)
+
+equ = cv2.equalizeHist(gray_image)
+
+cv2.imshow("Equalized Image",equ)
+
+cv2.waitKey(0)
+
+cv2.destroyAllWindows  
 
 
 
